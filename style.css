@@ -1,0 +1,40 @@
+*{
+    outline: none;
+}
+.main{
+    margin: auto;
+    background-color: rgb(46, 44, 44);
+    width: 223px;
+    height: 325px;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    border-radius: 17px;
+}
+table{
+    align-items: center;
+    margin-top: 10px;
+    margin-left: 21px;
+    margin-right: 10px;
+}
+button{
+    width: 40px;
+    height: 30px;
+    font-size: large;
+    margin-top: 10px;
+    background-color: #4D4D4D;
+    color: white;
+
+}
+.plus{
+    height: 74px;
+}
+input{
+    margin-top: 40px;
+    width: 173px;
+    height: 32px;
+    border-radius: 10px;
+    background-color: #6A775B;
+    font-size: 23px;
+}
+
